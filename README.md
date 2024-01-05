@@ -28,4 +28,7 @@ Hi, I am an engineer engaged in the development of autonomous driving control al
 ---
 - 💬 Contact me
 
-  - ![Email](https://img.shields.io/badge/Email-whale.blue.island@gmail.com-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs) ![Blog](https://img.shields.io/badge/Web-is-whale.github.io/-green) 
+  - ![Email](https://img.shields.io/badge/Email-whale.blue.island@gmail.com-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs)
+  -![Blog](https://img.shields.io/badge/Web-https://is-whale.github.io/-green) 
+
+  - ![Blog](https://img.shields.io/badge/Web-is-whale.github.io/-green) 
