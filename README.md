@@ -1,4 +1,4 @@
-### Hi, welcome to my homepage
+### Hi, welcome to my Github Homepage
 
 <div align="center">
 <table>
@@ -20,6 +20,8 @@
 
 ---
 Hi, I am an engineer engaged in the development of autonomous driving control algorithms and mobile robot design.
+I am interested in areas such as autonomous driving decision-making, planning, and control; SLAM, DeepLearn;robot design and control, and how to use them to do more interesting and meaningful things.
+
 - 📫 How to reach me:
 - This is my [homepage](https://is-whale.github.io/)
 -  my [Bilibili](https://space.bilibili.com/473579072?spm_id_from=333.1007.0.0),
@@ -29,6 +31,3 @@ Hi, I am an engineer engaged in the development of autonomous driving control al
 - 💬 Contact me
 
   - ![Email](https://img.shields.io/badge/Email-whale.blue.island@gmail.com-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs)
-  -![Blog](https://img.shields.io/badge/Web-https://is-whale.github.io/-green) 
-
-  - ![Blog](https://img.shields.io/badge/Web-is-whale.github.io/-green) 
