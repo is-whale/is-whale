@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, welcome to my homepage
 
-<!--
-**is-whale/is-whale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=is-whale\&rank_icon=github)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-whale&layout=compact&langs_count=8)]()
+
+</td>
+</tr>
+</table>
+</div>
+
+
+---
+Hi, I am an engineer engaged in the development of autonomous driving control algorithms and mobile robot design. (https://www.youtube.com/channel/UCD0zlg7NnB5IgAU4dId6X2w).
+- 📫 How to reach me:
+- This is my [homepage](https://is-whale.github.io/)
+-  my [Bilibili](https://space.bilibili.com/473579072?spm_id_from=333.1007.0.0),
+-  and my [YouTube](https://www.youtube.com/channel/UCD0zlg7NnB5IgAU4dId6X2w) 
