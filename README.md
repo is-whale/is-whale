@@ -32,4 +32,4 @@
 ---
 - 💬 Contact me
 
-  - ![Email](https://img.shields.io/badge/Email-whale.blue.island@gmail.com-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs)
+![Email](https://img.shields.io/badge/Email-whale.blue.island@gmail.com-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs)
