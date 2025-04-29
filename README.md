@@ -1,6 +1,4 @@
 ### Hi, welcome to my Github Homepage
-![trophy](https://github-profile-trophy.vercel.app/?username=is-whale)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-whale&layout=compact&langs_count=8)]()
 
