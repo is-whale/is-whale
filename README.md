@@ -1,20 +1,8 @@
 ### Hi, welcome to my Github Homepage
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![trophy](https://github-profile-trophy.vercel.app/?username=is-whale)
 
-<div align="center">
-<table>
-<tr>
-<td>
-
-</td>
-<td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-whale&layout=compact&langs_count=8)]()
-
-</td>
-</tr>
-</table>
-</div>
 
 
 ---
