@@ -1,13 +1,10 @@
 ### Hi, welcome to my Github Homepage
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 
 <div align="center">
 <table>
 <tr>
 <td>
-![Metrics](/github-metrics.svg)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whale)
 
 </td>
 <td>
