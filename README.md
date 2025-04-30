@@ -15,10 +15,6 @@
 </tr>
 </table>
 </div>
-
-![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
-
-
 ---
   Hi, I am an engineer engaged in the development of autonomous driving control algorithms and mobile robot design.
 
@@ -28,6 +24,7 @@
 - This is my [homepage](https://is-whale.github.io/)
 -  my [Bilibili](https://space.bilibili.com/473579072?spm_id_from=333.1007.0.0)
 -  and my [YouTube](https://www.youtube.com/channel/UCD0zlg7NnB5IgAU4dId6X2w)
+![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
 ---
 - 💬 Contact me
