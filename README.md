@@ -16,7 +16,7 @@
 </table>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-whale&layout=compact&langs_count=8)]()
+![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
 
 ---
