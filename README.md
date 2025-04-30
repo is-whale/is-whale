@@ -1,4 +1,20 @@
 ### Hi, welcome to my Github Homepage
+<div align="center">
+<table>
+<tr>
+<td>
+
+[![whale's GitHub stats](https://github-readme-stats.vercel.app/api?username=is-whale\&rank_icon=github)]()
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-whale&layout=compact&langs_count=8)]()
+
+</td>
+</tr>
+</table>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-whale&layout=compact&langs_count=8)]()
 
