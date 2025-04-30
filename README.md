@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-[![whale's GitHub stats](https://github-readme-stats.vercel.app/api?username=is-whale\&rank_icon=github)]()
+[![Whale's GitHub stats](https://github-readme-stats.vercel.app/api?username=is-whale)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td>
