@@ -1,4 +1,4 @@
-### Hi, welcome to my Github Homepage
+### welcome to my Github Homepage
 <div align="center">
 <table>
 <tr>
