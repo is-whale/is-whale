@@ -15,7 +15,7 @@
 </tr>
 </table>
 </div>
----
+
   Hi, I am an engineer engaged in the development of autonomous driving control algorithms and mobile robot design.
 
   I am interested in areas such as autonomous driving PNC; SLAM, DeepLearning; robot design and control, and how to use them to do more interesting and meaningful things.
@@ -26,7 +26,6 @@
 -  and my [YouTube](https://www.youtube.com/channel/UCD0zlg7NnB5IgAU4dId6X2w)
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
----
 - 💬 Contact me
 
 ![Email](https://img.shields.io/badge/Email-whale.blue.island@gmail.com-blue?link=https%3A%2F%2Fgithub.com%2Fweihaoysgs)
