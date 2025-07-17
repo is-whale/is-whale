@@ -18,7 +18,8 @@
 
   Hi, I am an engineer engaged in the development of autonomous driving control algorithms and mobile robot design.
 
-  I am interested in areas such as autonomous driving PNC; SLAM, DeepLearning; robot design and control, and how to use them to do more interesting and meaningful things.
+  I am interested in areas such as autonomous driving PNC; SLAM, DeepLearning; robot design and control,
+  and how to use them to do more interesting and meaningful things.
 
 ###  📫 How to reach me:
 - This is my [homepage](https://is-whale.github.io/)
